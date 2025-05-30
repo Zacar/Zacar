@@ -41,7 +41,7 @@ A deep learning-based system using YOLOv5 to recognize hand gestures for communi
 
 ## 🏅 Certification
 
-- **AWS Academy Graduate** – Cloud Foundations
+- [AWS Academy Graduate – Cloud Foundations](https://www.linkedin.com/in/sakar-manandhar-6a8a231a2/)
 
 ---
 
