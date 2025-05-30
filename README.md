@@ -33,8 +33,8 @@ A rental house searching platform.
 A deep learning-based system using YOLOv5 to recognize hand gestures for communication assistance.
 
 ### 🔹 Other Python Projects
-- 🐍 Snake Game(https://github.com/Zacar/Snake-Game-Python)
-- 🗺️ Nepal State Name Labeling Quiz Game(https://github.com/Zacar/Nepal-province-quizgame)
+- 🐍 [Snake Game](https://github.com/Zacar/Snake-Game-Python)
+- 🗺️ [Nepal State Name Labeling Quiz Game](https://github.com/Zacar/Nepal-province-quizgame)
 - 🎉 Automated Birthday Wisher Bot
 
 ---
